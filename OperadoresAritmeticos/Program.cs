@@ -1,0 +1,24 @@
+﻿Console.WriteLine("Operadores Aritmeticos");
+Console.WriteLine("----------------------");
+Console.Write("Digite o valor de a: ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.Write("Digite o valor de b: ");
+int b = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("----------------------------------");
+Console.WriteLine("Resultados:");
+Console.WriteLine($"Soma: {a} + {b} = {a + b}");
+Console.WriteLine($"Subtração: {a} - {b} = {a - b}");
+Console.WriteLine($"Multiplicação: {a} * {b} = {a * b}");
+Console.WriteLine($"Divisão: {a} / {b} = {a / b}");
+Console.WriteLine("----------------------------------");
+Console.WriteLine("Usando os métodos da classe Math");
+Console.WriteLine($"Raiz quadrada de a = {Math.Sqrt(a)}");
+Console.WriteLine($"Potência de a elevado à b: {Math.Pow(a, b)}");
+Console.WriteLine($"Valor máximo entre a e b: {Math.Max(a, b)}");
+Console.WriteLine($"Valor mínimo entre a e b: {Math.Min(a, b)}");
+Console.WriteLine($"Coseno de a = {Math.Cos(a)}");
+Console.WriteLine($"Seno de a = {Math.Sin(a)}");
+Console.WriteLine($"Tangente de a = {Math.Tan(a)}");
+Console.WriteLine("----------------------------------");
+
+Console.ReadKey();
