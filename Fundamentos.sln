@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaIfElseIf", "Estrut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{19FAD213-DC9E-4D85-8AA3-51C1C25D5860}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeRepeticao", "EstruturaDeRepeticao\EstruturaDeRepeticao.csproj", "{D822CFBB-9FAE-41E9-920C-A2B8CFECC48B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -251,6 +253,18 @@ Global
 		{19FAD213-DC9E-4D85-8AA3-51C1C25D5860}.Release|x64.Build.0 = Release|Any CPU
 		{19FAD213-DC9E-4D85-8AA3-51C1C25D5860}.Release|x86.ActiveCfg = Release|Any CPU
 		{19FAD213-DC9E-4D85-8AA3-51C1C25D5860}.Release|x86.Build.0 = Release|Any CPU
+		{D822CFBB-9FAE-41E9-920C-A2B8CFECC48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D822CFBB-9FAE-41E9-920C-A2B8CFECC48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D822CFBB-9FAE-41E9-920C-A2B8CFECC48B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D822CFBB-9FAE-41E9-920C-A2B8CFECC48B}.Debug|x64.Build.0 = Debug|Any CPU
+		{D822CFBB-9FAE-41E9-920C-A2B8CFECC48B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D822CFBB-9FAE-41E9-920C-A2B8CFECC48B}.Debug|x86.Build.0 = Debug|Any CPU
+		{D822CFBB-9FAE-41E9-920C-A2B8CFECC48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D822CFBB-9FAE-41E9-920C-A2B8CFECC48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D822CFBB-9FAE-41E9-920C-A2B8CFECC48B}.Release|x64.ActiveCfg = Release|Any CPU
+		{D822CFBB-9FAE-41E9-920C-A2B8CFECC48B}.Release|x64.Build.0 = Release|Any CPU
+		{D822CFBB-9FAE-41E9-920C-A2B8CFECC48B}.Release|x86.ActiveCfg = Release|Any CPU
+		{D822CFBB-9FAE-41E9-920C-A2B8CFECC48B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
